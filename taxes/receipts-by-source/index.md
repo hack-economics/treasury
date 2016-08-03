@@ -1,0 +1,17 @@
+Receipts by source can be found here:
+
+- [2001](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2001/rta.pdf)
+- [2002](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2002/rta.pdf)
+- [2003](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2003/rta.pdf)
+- [2004](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2004/rta.pdf)
+- [2005](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2005/rta.pdf)
+- [2006](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2006/rta.pdf)
+- [2007](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2007/rta.pdf)
+- [2008](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2008/rta.pdf)
+- [2009](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2009/rta.pdf)
+- [2010](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2010/rta.pdf)
+- [2011](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2011/rta.pdf)
+- [2012](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2012/rta.pdf)
+- [2013](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2013/rta.pdf)
+- [2014](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2014/rta.pdf)
+- [2015](https://www.fiscal.treasury.gov/fsreports/rpt/combStmt/cs2015/rta.pdf)
